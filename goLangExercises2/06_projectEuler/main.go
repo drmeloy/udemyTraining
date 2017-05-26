@@ -20,4 +20,6 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below 1000.
 
 ANSWER: 233168
+
+P.S. While this was question one on Project Euler, I will try another problem to send to Todd because we had already done this one, and if I chose only this one to send it would be a cop out.
  */
